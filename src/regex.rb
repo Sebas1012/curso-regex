@@ -1,0 +1,2 @@
+# En ruby las expresiones regulares se pueden aplicar de diversas maneras, pero 2 de las maneras mas sencillas son usando los metodos
+# .match o .scan. En este archivo mostrare como se pueden aplicar ambas.
