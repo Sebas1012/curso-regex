@@ -12,3 +12,4 @@ Para entender que son las expresiones regulares debemos entender primero que es 
 | \s  | Encuentra todos los espacios.  |
 | \S  | Encuentra todo lo que NO sean espacios.  |
 | [n-n]  | Rango, permite buscar por rangos de digitos o letras([a-z], [A-Z], [0-9]), es importante saber que todos los rangos se pueden combinar en un solo parentesis ([a-zA-Z0-9]).  |
+
